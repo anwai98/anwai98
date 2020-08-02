@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Medical Imaging
 - 🤔 I’m looking for help with Everything
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Mail](anwai.archit@gmail.com)
+- 📫 How to reach me: anwai.archit@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: HalfSane Beardless Doodler
