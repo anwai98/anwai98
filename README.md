@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Project with Ahladini Technologies Private Limited.
+- 🔭 I’m currently working on a UI Project in Ahladini Technologies Private Limited.
 - 🌱 I’m currently learning Angular 9, BioImage Processing.
-- 👯 I’m looking to collaborate on Medical Imaging
-- 🤔 I’m looking for help with Everything
+- 👯 I’m looking to collaborate on Medical Imaging. 
+- 🤔 I’m looking for help with anything which helps me grow.
 - 💬 Ask me about Anything
 - 📫 How to reach me: anwai.archit@gmail.com
 - 😄 Pronouns: He/Him
