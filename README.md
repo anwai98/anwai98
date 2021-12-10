@@ -1,9 +1,8 @@
-### Here is EVERYTHING You Need to Know: 👋
+### Below is EVERYTHING (Almost) You Need to Know: 👋
 
+Here are some bullets to get you started:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently pursing my Masters in Medical Imaging and Applications.
+- 🔭 I’m currently pursing my Erasmus Mundus Joint Master Degree in Medical Imaging and Applications.
 - 🌱 I’m currently learning applications of Machine Learning and Deep Learning in Medical Imaging.
 - 👯 I’m looking to collaborate on diverse Deep Learning implementations. 
 - 🤔 I’m looking for help with anything which helps me grow.
