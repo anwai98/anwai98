@@ -1,4 +1,4 @@
-### Below is EVERYTHING (Almost) You Need to Know: 👋
+### Hey Hey, I'm Anwai (Jaunty) 👋
 
 Here are some bullets to get you started:
 
