@@ -7,6 +7,6 @@ Here are some bullets to get you started:
 - 👯 I’m looking to collaborate on diverse Deep Learning implementations. 
 - 🤔 I’m looking for help with anything which helps me grow.
 - 💬 Ask me about anything apart from Flamingos.
-- 📫 How to reach me: anwai.archit@gmail.com
+- 📫 How to reach me: https://anwai98.github.io/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: HalfSane Beardless Doodler
