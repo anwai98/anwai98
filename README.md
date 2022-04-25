@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything apart from Flamingos.**
 
-- 📫 How to reach me **anwai.archit@gmail.com**
+- 📫 How to reach me : **anwai.archit@gmail.com**
 
 - 📄 Know about my experiences [https://anwai98.github.io/](https://anwai98.github.io/)
 
