@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://anwai98.github.io/](https://anwai98.github.io/)
 
-- ⚡ Fun fact **HalfSane Beardless Doodler**
+- ⚡ Fun fact : **HalfSane Beardless Doodler**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
