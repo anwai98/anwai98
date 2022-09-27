@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anwaiarchit" target="blank"><img src="https://img.shields.io/twitter/follow/anwaiarchit?logo=twitter&style=for-the-badge" alt="anwaiarchit" /></a> </p>
 
-- 🔭 I’m currently working on [Microscopic Images](https://user.informatik.uni-goettingen.de/~pape41/) & [AAA](https://www.diagnijmegen.nl/projects/aaa-detection-ct/)
+- 🔭 I’m currently working on [Microscopic Images](https://user.informatik.uni-goettingen.de/~pape41/) & [AAA](https://www.diagnijmegen.nl/projects/aaa-detection-ct/).
 
 - 🌱 I’m incessantly learning the **applications of Machine Learning and Deep Learning in Biomedical Imaging.**
 
@@ -13,17 +13,17 @@
 
 - 🤝 I’m looking for help with **anything that helps me grow.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anwai98?tab=repositories](https://github.com/anwai98?tab=repositories)
+- 👨‍💻 All of my projects are secretly available [here](https://github.com/anwai98?tab=repositories).
 
 - 💬 Ask me about **anything apart from Flamingos.**
 
-- 📫 How to reach me : **anwai.archit@gmail.com**
+- 📫 How to reach me : **anwai.archit@gmail.com**.
 
-- 📄 Know about my experiences : [Anwai's Den](https://anwai98.github.io/)
+- 📄 Know about my experiences : [Anwai's Den](https://anwai98.github.io/).
 
-- ⚡ Fun fact : **HalfSane Beardless Doodler**
+- ⚡ Fun fact : **HalfSane Beardless Doodler**.
 
-- :scientist: Replicating this content should be [fun](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- :scientist: Replicating this content should be [fun](https://rahuldkjain.github.io/gh-profile-readme-generator/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
