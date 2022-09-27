@@ -7,21 +7,21 @@
 
 - 🔭 I’m currently working on [Microscopic Images](https://user.informatik.uni-goettingen.de/~pape41/) & [AAA](https://www.diagnijmegen.nl/projects/aaa-detection-ct/)
 
-- 🌱 I’m currently learning **applications of Machine Learning and Deep Learning in Biomedical Imaging.**
+- 🌱 I’m incessantly learning the **applications of Machine Learning and Deep Learning in Biomedical Imaging.**
 
 - 👯 I’m looking to collaborate on **diverse Deep Learning implementations.**
 
-- 🤝 I’m looking for help with **anything which helps me grow.**
+- 🤝 I’m looking for help with **anything that helps me grow.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anwai98?tab=repositories](https://github.com/anwai98?tab=repositories)
 
 - 💬 Ask me about **anything apart from Flamingos.**
 
-- 📫 How to reach me **anwai.archit@gmail.com**
+- 📫 How to reach me : **anwai.archit@gmail.com**
 
-- 📄 Know about my experiences [https://anwai98.github.io/](https://anwai98.github.io/)
+- 📄 Know about my experiences : [Anwai's Den](https://anwai98.github.io/)
 
-- ⚡ Fun fact **HalfSane Beardless Doodler**
+- ⚡ Fun fact : **HalfSane Beardless Doodler**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
