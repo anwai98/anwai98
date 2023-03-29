@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anwaiarchit" target="blank"><img src="https://img.shields.io/twitter/follow/anwaiarchit?logo=twitter&style=for-the-badge" alt="anwaiarchit" /></a> </p> --->
 
-- 🔭 I’m currently working on [Microscopic Images](https://user.informatik.uni-goettingen.de/~pape41/) & [AAA](https://www.diagnijmegen.nl/projects/aaa-detection-ct/).
+- 🔭 I’m currently working on [Microscopic Images](https://user.informatik.uni-goettingen.de/~pape41/).
 
 - 🌱 I’m incessantly learning the **applications of Machine Learning and Deep Learning in Biomedical Imaging.**
 
