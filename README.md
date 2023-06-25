@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **anything that helps me grow.**
 
-- 👨‍💻 All of my projects are secretly available [here](https://github.com/anwai98?tab=repositories).
-
 - 💬 Ask me about **anything apart from Flamingos.**
 
 - 📫 How to reach me : **anwai.archit@gmail.com**.
