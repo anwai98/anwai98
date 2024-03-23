@@ -19,6 +19,4 @@
 
 - 📄 Know about my experiences : [Anwai's Den](https://anwai98.github.io/).
 
-- ⚡ Fun fact : **HalfSane Beardless Doodler**.
-
 - :scientist: Replicating this content should be [fun](https://rahuldkjain.github.io/gh-profile-readme-generator/).
