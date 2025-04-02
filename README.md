@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **anything that helps me grow.**
 
-- 💬 Ask me about **anything apart from Flamingos.**
+- 💬 Ask me about **anything apart from Chihuahuas.**
 
 - 📫 How to reach me : **anwai.archit@gmail.com**.
 
